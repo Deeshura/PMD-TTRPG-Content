@@ -1,0 +1,86 @@
+{
+  "index.qmd": {
+    "index.html": "4581093d"
+  },
+  "intro.qmd": {
+    "intro.html": "1a0398fb"
+  },
+  "summary.qmd": {
+    "summary.html": "2c07c813"
+  },
+  "references.qmd": {
+    "references.html": "475fa81c"
+  },
+  "foreword.qmd": {
+    "foreword.html": "d576407a"
+  },
+  "debug.qmd": {
+    "debug.html": "7dcabc09"
+  },
+  "0_introduction/foreword.qmd": {
+    "foreword.html": "f20c0e03"
+  },
+  "1_playersCharacters/thePlayer.qmd": {
+    "thePlayer.html": "f01a12d6"
+  },
+  "1_playersCharacters/characters.qmd": {
+    "characters.html": "1383cb65"
+  },
+  "1_playersCharacters/characterCreation.qmd": {
+    "characterCreation.html": "07d54f74"
+  },
+  "1_playersCharacters/progression.qmd": {
+    "progression.html": "14710355"
+  },
+  "2_playingGame/rolling.qmd": {
+    "rolling.html": "fa06f2ed"
+  },
+  "2_playingGame/time.qmd": {
+    "time.html": "4ad9f771"
+  },
+  "2_playingGame/turnOrder.qmd": {
+    "turnOrder.html": "a49701f2"
+  },
+  "2_playingGame/dungeonCrawling.qmd": {
+    "dungeonCrawling.html": "360ffb12"
+  },
+  "2_playingGame/stealth.qmd": {
+    "stealth.html": "ff7d2c7a"
+  },
+  "2_playingGame/battles.qmd": {
+    "battles.html": "31f0880b"
+  },
+  "2_playingGame/resting.qmd": {
+    "resting.html": "c2b2e553"
+  },
+  "2_playingGame/downtime.qmd": {
+    "downtime.html": "75e294c2"
+  },
+  "3_mEC/usingMoves.qmd": {
+    "usingMoves.html": "fd54a32b"
+  },
+  "3_mEC/moveAttributes.qmd": {
+    "moveAttributes.html": "01df836a"
+  },
+  "3_mEC/moveTags.qmd": {
+    "moveTags.html": "eea12cc6"
+  },
+  "3_mEC/statusEffects.qmd": {
+    "statusEffects.html": "1452caaa"
+  },
+  "3_mEC/statusConditions.qmd": {
+    "statusConditions.html": "39dcb7fa"
+  },
+  "5_appendix/debug.qmd": {
+    "debug.html": "f0b59d10"
+  },
+  "0_introduction/why.qmd": {
+    "why.html": "1d5c57e4"
+  },
+  "0_introduction/intro.qmd": {
+    "intro.html": "6a3c01cc"
+  },
+  "5_appendix/glossary.qmd": {
+    "glossary.html": "9d4c567c"
+  }
+}

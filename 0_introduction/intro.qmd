@@ -1,0 +1,35 @@
+# Introduction
+
+A tabletop roleplaying game (henceforth, "TTRPG") is an interactive storytelling game where one player, the "Game Master" ("GM") acts as the narrator and referee, being in charge of describing the scene and presenting challenges to the other players, who take the role of the "Player Characters" (PCs). The players must overcome thrilling battles and labyrinthine dungeons filled with devious traps- all in search of fame and fortune.
+
+The game will typically be playing in a group of around 5 players, with one of said players serving as the group's GM. The GM is responsible for preparing adventures for the party to undertake, and guiding how the world responds to the actions of the player characters, taking control of rivals and allies alike. Each player has a role in contributing to the story, and dice rolls are used to add elements of risk to the taken actions.
+
+## Rule Number One
+
+The very first rule of this TTRPG is to have fun[^intro-1]. Your group has the right to modify the rest of the rules for your personal use in order to accomplish this. Don't like how something is written here? Feel free to do something different, or ignore it entirely. Your journey is for *you* to decide, after all.
+
+[^intro-1]: Some fairy types may claim rule number one is actually "Don't think about it!". Let this be a reminder to never take advice from the fair folk.
+
+## The Flow of the Game
+
+TTRPG's are typically played in sessions, during which players gather for a few hours and play the game. Sessions can take place in person around a table with what they need to play physically with them, or alternatively, can be played online using digital toolsets and platforms that emulate the in-person experience. Some groups even play tabletop games over written mail, in a format called "Play by Post".
+
+Sessions form the building blocks of the game story or "Campaign"- some campaigns may be short enough to be told in a single session (known as a "one shot"), whilst others may stretch across multiple sessions and last months, even years.
+
+Some sessions may involve thrilling battles with rivals and legendary foes, whilst others may see the party sneaking around town at night, or bargaining with the local leader for information. What happens during a sessions is ultimately up to your group to decide- and rarely are two sessions ever the same.
+
+\newpage
+
+## Tools of Play
+
+In addition to the rules in this book and some friends, you will need some other materials to play this game. You can easily find these by shopping online, or at a local game store.
+
+-   **The Character Sheet:** The character sheet is where each player will note down information pertaining to their character, and is continuously updated during play. A template character sheet is included with this book here (TODO).
+
+-   **Dice:** The players and the GM will each need a twenty-sided die (a "d20"), as well as some six-sided dice (a "d6"). Having 5 or more d6s is recommended.
+
+    -   **A Coin...?** In some instances, the players or GM may be asked to flip a coin. If you'd rather avoid doing that, a d6 can be used for this purpose- roll the die, and treat even numbers as heads, and odd numbers as tails.
+
+-   **Adventures:** Your table will obviously need an adventure to play. Your GM can create their own adventure, or alternatively, they can adapt an adventure published by someone else online.
+
+-   **Maps and Tokens:** Having a map of the environment, and tokens that can represent the player characters, is a good way to keep track of dungeon crawls and the state of combat. Maps typically are marked with a 1-inch grid, with each square representing 1 meter in game. Tokens are used to represent the positions of players and other characters.

@@ -1,0 +1,74 @@
+project:
+  type: book
+
+book:
+  title: "World of PKMN"
+  author: "Deeshura"
+  date: "5/16/2025"
+  # sidebar options
+  sidebar:
+    title: " "
+    search: true
+  # layout
+  chapters:
+  
+    - index.qmd
+    
+    - 0_introduction/why.qmd
+    
+    - 0_introduction/intro.qmd
+    
+    - part: "Player Characters"
+      chapters: 
+        - 1_playersCharacters/thePlayer.qmd
+        - 1_playersCharacters/characters.qmd
+        - 1_playersCharacters/characterCreation.qmd
+        - 1_playersCharacters/progression.qmd
+        
+    - part: "Playing the Game"
+      chapters: 
+        - 2_playingGame/rolling.qmd
+        - 2_playingGame/time.qmd
+        - 2_playingGame/turnOrder.qmd
+        - 2_playingGame/dungeonCrawling.qmd
+        - 2_playingGame/stealth.qmd
+        - 2_playingGame/battles.qmd
+        - 2_playingGame/resting.qmd
+        - 2_playingGame/downtime.qmd
+        
+    - part: "Moves, Effects, and Conditions"
+      chapters: 
+        - 3_mEC/usingMoves.qmd
+        - 3_mEC/moveAttributes.qmd
+        - 3_mEC/moveTags.qmd
+        - 3_mEC/statusEffects.qmd
+        - 3_mEC/statusConditions.qmd
+        
+  appendices: 
+    - 5_appendix/debug.qmd
+    - 5_appendix/glossary.qmd
+    
+bibliography: references.bib
+
+format:
+  html:
+    # theme
+    brand: _brand.yml
+  pdf:
+    pdf-engine: lualatex
+    # class
+    documentclass: scrbook
+    # fonts
+    mainfont: "EB Garamond"
+    fontsize: 11pt
+    #geometry
+    geometry: 
+      - paperwidth=148mm
+      - paperheight=210mm
+      - left=15mm
+      - right=15mm
+      - top=20mm
+      - bottom=25mm
+
+
+

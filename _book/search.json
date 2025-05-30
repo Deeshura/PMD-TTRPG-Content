@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "0_introduction/intro.html",
+    "href": "0_introduction/intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Rule Number One\nA tabletop roleplaying game (henceforth, “TTRPG”) is an interactive storytelling game where one player, the “Game Master” (“GM”) acts as the narrator and referee, being in charge of describing the scene and presenting challenges to the other players, who take the role of the “Player Characters” (PCs). The players must overcome thrilling battles and labyrinthine dungeons filled with devious traps- all in search of fame and fortune.\nThe game will typically be playing in a group of around 5 players, with one of said players serving as the group’s GM. The GM is responsible for preparing adventures for the party to undertake, and guiding how the world responds to the actions of the player characters, taking control of rivals and allies alike. Each player has a role in contributing to the story, and dice rolls are used to add elements of risk to the taken actions.\nThe very first rule of this TTRPG is to have fun1. Your group has the right to modify the rest of the rules for your personal use in order to accomplish this. Don’t like how something is written here? Feel free to do something different, or ignore it entirely. Your journey is for you to decide, after all.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "0_introduction/intro.html#the-flow-of-the-game",
+    "href": "0_introduction/intro.html#the-flow-of-the-game",
+    "title": "1  Introduction",
+    "section": "1.2 The Flow of the Game",
+    "text": "1.2 The Flow of the Game\nTTRPG’s are typically played in sessions, during which players gather for a few hours and play the game. Sessions can take place in person around a table with what they need to play physically with them, or alternatively, can be played online using digital toolsets and platforms that emulate the in-person experience. Some groups even play tabletop games over written mail, in a format called “Play by Post”.\nSessions form the building blocks of the game story or “Campaign”- some campaigns may be short enough to be told in a single session (known as a “one shot”), whilst others may stretch across multiple sessions and last months, even years.\nSome sessions may involve thrilling battles with rivals and legendary foes, whilst others may see the party sneaking around town at night, or bargaining with the local leader for information. What happens during a sessions is ultimately up to your group to decide- and rarely are two sessions ever the same.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "0_introduction/intro.html#tools-of-play",
+    "href": "0_introduction/intro.html#tools-of-play",
+    "title": "1  Introduction",
+    "section": "1.3 Tools of Play",
+    "text": "1.3 Tools of Play\nIn addition to the rules in this book and some friends, you will need some other materials to play this game. You can easily find these by shopping online, or at a local game store.\n\nThe Character Sheet: The character sheet is where each player will note down information pertaining to their character, and is continuously updated during play. A template character sheet is included with this book here (TODO).\nDice: The players and the GM will each need a twenty-sided die (a “d20”), as well as some six-sided dice (a “d6”). Having 5 or more d6s is recommended.\n\nA Coin…? In some instances, the players or GM may be asked to flip a coin. If you’d rather avoid doing that, a d6 can be used for this purpose- roll the die, and treat even numbers as heads, and odd numbers as tails.\n\nAdventures: Your table will obviously need an adventure to play. Your GM can create their own adventure, or alternatively, they can adapt an adventure published by someone else online.\nMaps and Tokens: Having a map of the environment, and tokens that can represent the player characters, is a good way to keep track of dungeon crawls and the state of combat. Maps typically are marked with a 1-inch grid, with each square representing 1 meter in game. Tokens are used to represent the positions of players and other characters.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "0_introduction/intro.html#footnotes",
+    "href": "0_introduction/intro.html#footnotes",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Some fairy types may claim rule number one is actually “Don’t think about it!”. Let this be a reminder to never take advice from the fair folk.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "0_introduction/why.html",
+    "href": "0_introduction/why.html",
+    "title": "Preface",
+    "section": "",
+    "text": "What is PMD?\nThere have been many attempts to adapt Pokemon and its dungeon crawling spin-off Pokemon Mystery Dungeon (henceforth, PMD) to a TTRPG format. The reason why is obvious; PMD is beloved by its fans for its shift in focus compared to the main series1, and a TTRPG adaption would allow fans to create as many new adventures in that world as they desire.\nFor myself, personally, many of these attempts to adapt PMD have fallen short of being the perfect game. Of course, everyone will have a different vision of what the “perfect” adaption of PMD would be; what some tabletop players may find enjoyable, others may not particularly gel with.\nNevertheless, unsatisfied with what exists, I set out to create what I envisioned to be the perfect adaption of PMD into a tabletop format.\nOf course, the question at the heart of trying to create the perfect PMD adaption is “what even is PMD about anyway?”.\nPokemon Mystery Dungeon, as its name implies, is a crossover of two different franchises; Pokemon, a creature-collecting RPG that is easy to learn, but with a huge variety of options at the players disposal, and the “Mystery Dungeon” series of games, which are very focused and straightforward rogue-like dungeon crawlers. Yet, this crossover downplays the core qualities of both its halves, with less focus on creature collecting and challenging dungeon crawls, and instead ups the focus on narrative, featuring stories with a strong emotional core that touched the hearts of fans around the world.\nIn some ways, this is utterly incoherent, yet nevertheless this strong narrative focus is what has allowed PMD to carve out a dedicated and loyal fan-base separate from that of the main Pokemon series. A fully narrative-focused game with Pokemon-characters as set dressing could work fine; I’ve seen PMD-themed games of Blades in the Dark been run before, for example.\nThat being said, I feel like an approach that is fully narrative focused does a disservice to its predecessors and the history of PMD and its creation. PMD is not quite at the stage of being a visual novel; the dungeon crawls, love them or hate them, are a part of every game that no player can really ignore.\nThus, this book sets out to be the following; a rules-light, low-stakes dungeon-crawler that tastefully implements Pokemon mechanics in a way that supports storytelling and narrative-focused gameplay.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "0_introduction/why.html#what-this-game-is",
+    "href": "0_introduction/why.html#what-this-game-is",
+    "title": "Preface",
+    "section": "What this game is",
+    "text": "What this game is\nA fantasy-esque RPG where a group of Players work alongside a GM to tell a story of adventure, in a world where generally all player and non-player characters (PCs and NPCs) are talking Pokemon2.\nThe rules should, ideally, be relatively “light”, though creating a fully rules-light system whilst sticking to Pokemon’s conventions alongside the expectations of the dungeon-crawling genre is challenging. Nevertheless, the “crunch” in this system is designed to help it reach its goal of being a strong PMD adaption, and should ideally not get in the way of the players or GM.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "0_introduction/why.html#what-this-game-isnt",
+    "href": "0_introduction/why.html#what-this-game-isnt",
+    "title": "Preface",
+    "section": "What this game isn’t",
+    "text": "What this game isn’t\nPokemon, are, at their core, their own individual characters. Two different Pikachu could have completely separate motivations, goals, personalities, and movesets. With this in mind, and to be frank, for the sake of levity, there are no species-specific rules in this game, nor an expansive included Pokedex. The rules instead focus on supporting GM’s and Players to build their own Pokemon quickly and easily.\nWhilst this book borrows quite heavily from the “Old School Renaissance” (henceforth, OSR) scene in terms of dungeon-crawling design, in order to better adapt PMD’s tone, there is much less focus on lethal consequences and crushing failures here compared to other OSR games. In fact, there are no rules for dying at all- defeat can be consequential, but it will rarely ever spell a character’s demise.\nThis game is not going to be a masterpiece of graphic design. In fact, it’s in some ways little more than a glorified Obsidian notebook, being markdown that’s then converted into a web-book and an accompany PDF via Quarto. I do not have the time nor the money to put together any kind of hardcover product-nor do I want The Pokemon Company sending lawyers to my doorstep!",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "0_introduction/why.html#footnotes",
+    "href": "0_introduction/why.html#footnotes",
+    "title": "Preface",
+    "section": "",
+    "text": "That, or because it enables people’s furry fantasies. Up to you.↩︎\nWe are not responsible if your GM decides to swerve the plot towards a giant evil orb with a glowing red core.↩︎",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "5_appendix/debug.html",
+    "href": "5_appendix/debug.html",
+    "title": "Test Page",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\nNote\n\n\n\nnote\n\n\n\n\n\n\n\n\nWarning\n\n\n\nwarning\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is important!\n\n\n\n\n\n\n\n\nThis note has a title!\n\n\n\nIt’s also a tip!\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.",
+    "crumbs": [
+      "Appendices",
+      "Test Page"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "World of PKMN",
+    "section": "",
+    "text": "Welcome\nWelcome! This book is the portal that leads to the World of Pokemon!\n…To be a little more specific, this book is a guide to playing “World of PKMN”, a tabletop roleplaying game where a group of players work together to explore mysterious dungeons and overcome challenges in pursuit of fame and fortune, under the guidance of a Game Master.\nYour journeys will take place in the World of Pokemon, a land rife with ancient ruins, deep caverns, sprawling forests. A world of endless adventure awaits- be strong! Stay smart! And be victorious!\n\n\n\n\n\n\nDisclaimer\n\n\n\nThis is a fan-made tabletop roleplaying game intended for free use. Nintendo and Game Freak own all rights to Pokémon and related media. By reading this book, you agree to not copy any Pokemon-related material for profit or resale. Neither you nor I want to provoke the wrath of the Nintendo ninjas.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "1_playersCharacters/thePlayer.html",
+    "href": "1_playersCharacters/thePlayer.html",
+    "title": "2  The Role of the Players",
+    "section": "",
+    "text": "Elephant",
+    "crumbs": [
+      "Player Characters",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Role of the Players</span>"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+# Preface {.unnumbered}
+
+There have been many attempts to adapt Pokemon and its dungeon crawling spin-off Pokemon Mystery Dungeon (henceforth, PMD) to a TTRPG format. The reason why is obvious; PMD is beloved by its fans for its shift in focus  compared to the main series[^1], and a TTRPG adaption would allow fans to create as many new adventures in that world as they desire.
+
+[^1]: That, or because it enables people's furry fantasies. Up to you.
+
+For myself, personally, many of these attempts to adapt PMD have fallen short of being the perfect game. Of course, everyone will have a different vision of what the "perfect" adaption of PMD would be; what some tabletop players may find enjoyable, others may not particularly gel with. 
+
+Nevertheless, unsatisfied with what exists, I set out to create what I envisioned to be the perfect adaption of PMD into a tabletop format.
+
+\newpage
+
+## What is PMD?
+
+Of course, the question at the heart of trying to create the perfect PMD adaption is "what even *is* PMD about anyway?". 
+
+Pokemon Mystery Dungeon, as its name implies, is a crossover of two different franchises; Pokemon, a creature-collecting RPG that is easy to learn, but with a huge variety of options at the players disposal, and the "Mystery Dungeon" series of games, which are very focused and straightforward rogue-like dungeon crawlers. Yet, this crossover downplays the core qualities of both its halves, with less focus on creature collecting and challenging dungeon crawls, and instead ups the focus on narrative, featuring stories with a strong emotional core that touched the hearts of fans around the world.
+
+In some ways, this is utterly incoherent, yet nevertheless this strong narrative focus is what has allowed PMD to carve out a dedicated and loyal fan-base separate from that of the main Pokemon series. A fully narrative-focused game with Pokemon-characters as set dressing could work fine; I've seen PMD-themed games of Blades in the Dark been run before, for example.
+
+That being said, I feel like an approach that is *fully* narrative focused does a disservice to its predecessors and the history of PMD and its creation. PMD is not quite at the stage of being a visual novel; the dungeon crawls, love them or hate them, are a part of every game that no player can really ignore.
+
+Thus, this book sets out to be the following; a rules-light, low-stakes dungeon-crawler that tastefully implements Pokemon mechanics in a way that supports storytelling and narrative-focused gameplay.
+
+\newpage
+
+## What this game *is*
+
+A fantasy-esque RPG where a group of Players work alongside a GM to tell a story of adventure, in a world where *generally* all player and non-player characters (PCs and NPCs) are talking Pokemon[^2].
+
+[^2]: We are not responsible if your GM decides to swerve the plot towards a giant evil orb with a glowing red core.
+
+The rules should, ideally, be relatively "light", though creating a fully rules-light system whilst sticking to Pokemon's conventions alongside the expectations of the dungeon-crawling genre is challenging. Nevertheless, the "crunch" in this system is designed to help it reach its goal of being a strong PMD adaption, and should ideally not get in the way of the players or GM.
+
+## What this game *isn't*
+
+Pokemon, are, at their core, their own individual characters. Two different Pikachu could have completely separate motivations, goals, personalities, and movesets. With this in mind, and to be frank, for the sake of levity, there are no species-specific rules in this game, nor an expansive included Pokedex. The rules instead focus on supporting GM's and Players to build their own Pokemon quickly and easily.
+
+Whilst this book borrows quite heavily from the "Old School Renaissance" (henceforth, OSR) scene in terms of dungeon-crawling design, in order to better adapt PMD's tone, there is much less focus on lethal consequences and crushing failures here compared to other OSR games. In fact, there are no rules for dying at all- defeat can be consequential, but it will rarely ever spell a character's demise.
+
+This game is not going to be a masterpiece of graphic design. In fact, it's in some ways little more than a glorified Obsidian notebook, being markdown that's then converted into a web-book and an accompany PDF via Quarto. I do not have the time nor the money to put together any kind of hardcover product-nor do I want The Pokemon Company sending lawyers to my doorstep!

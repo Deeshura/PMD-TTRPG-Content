@@ -1,0 +1,21 @@
+{
+  "hash": "2d6a29b756df74927598725546a935a7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Test Page {#sec-intro .unnumbered}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n::: {.callout-note}\nnote\n:::\n\n::: {.callout-warning}\nwarning\n:::\n\n::: {.callout-important}\nThis is important!\n:::\n\n::: {.callout-tip}\n## This note has a title!\n\nIt's also a tip!\n:::\n\n::: {.callout-caution collapse=\"true\"}\n## Expand To Learn About Collapse\n\nThis is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse=\"true\"` to collapse it by default or `collapse=\"false\"` to make a collapsible callout that is expanded by default.\n:::",
+    "supporting": [
+      "debug_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}
