@@ -6,7 +6,7 @@ Welcome! This book is the portal that leads to the World of Pokemon!
 
 Your journeys will take place in the World of Pokemon, a land rife with ancient ruins, deep caverns, sprawling forests. A world of endless adventure awaits- be strong! Stay smart! And be victorious!
 
-::: {.callout-important}
+::: callout-important
 ## Disclaimer
 
 This is a fan-made tabletop roleplaying game intended for free use. Nintendo and Game Freak own all rights to Pokémon and related media. By reading this book, you agree to not copy any Pokemon-related material for profit or resale. Neither you nor I want to provoke the wrath of the Nintendo ninjas.

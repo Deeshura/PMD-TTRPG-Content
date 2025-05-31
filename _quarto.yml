@@ -9,9 +9,12 @@ book:
   sidebar:
     title: " "
     search: true
+  # footer
+  page-footer:
+    center: |
+      Written by Deeshura, and rendered with Quarto {{< version >}}.
   # layout
   chapters:
-  
     - index.qmd
     
     - 0_introduction/why.qmd
@@ -45,15 +48,54 @@ book:
         - 3_mEC/statusConditions.qmd
         
   appendices: 
-    - 5_appendix/debug.qmd
+    - 5_appendix/types.qmd
+    
+    - part: "Move Lists"
+      chapters: 
+        - 5_appendix/movesNormal.qmd
+        - 5_appendix/movesFighting.qmd
+        - 5_appendix/movesFlying.qmd
+        - 5_appendix/movesPoison.qmd
+        - 5_appendix/movesGround.qmd
+        - 5_appendix/movesRock.qmd
+        - 5_appendix/movesBug.qmd
+        - 5_appendix/movesGhost.qmd
+        - 5_appendix/movesSteel.qmd
+        - 5_appendix/movesFire.qmd
+        - 5_appendix/movesWater.qmd
+        - 5_appendix/movesGrass.qmd
+        - 5_appendix/movesElectric.qmd
+        - 5_appendix/movesPsychic.qmd
+        - 5_appendix/movesIce.qmd
+        - 5_appendix/movesDragon.qmd
+        - 5_appendix/movesDark.qmd
+        - 5_appendix/movesFairy.qmd
+        
+    - part: "Archetypes"
+      chapters: 
+        - 5_appendix/archetypeArcanist.qmd
+        - 5_appendix/archetypeBard.qmd
+        - 5_appendix/archetypeHealer.qmd
+        - 5_appendix/archetypeKnight.qmd
+        - 5_appendix/archetypeRanger.qmd
+        - 5_appendix/archetypeScholar.qmd
+        - 5_appendix/archetypeThief.qmd
+        - 5_appendix/archetypeWarrior.qmd
+        
+    - 5_appendix/backgrounds.qmd
+    - 5_appendix/items.qmd
     - 5_appendix/glossary.qmd
+    
+    - 5_appendix/debug.qmd
     
 bibliography: references.bib
 
 format:
   html:
     # theme
-    brand: _brand.yml
+    brand: 
+      light: light-brand.yml
+      dark: dark-brand.yml
   pdf:
     pdf-engine: lualatex
     # class

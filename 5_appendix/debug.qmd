@@ -4,19 +4,19 @@
 1 + 1
 ```
 
-::: {.callout-note}
+::: callout-note
 note
 :::
 
-::: {.callout-warning}
+::: callout-warning
 warning
 :::
 
-::: {.callout-important}
+::: callout-important
 This is important!
 :::
 
-::: {.callout-tip}
+::: callout-tip
 ## This note has a title!
 
 It's also a tip!

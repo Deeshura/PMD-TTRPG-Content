@@ -1,0 +1,52 @@
+meta:
+  name: World of Pokemon
+  
+logo: 
+  images:
+    icon: branding/logos/logo_color_small.svg
+    header: branding/logos/logo_title.svg
+  medium: header
+
+color:
+  palette:
+    black: "#282828"
+    white: "#FFFFFF"
+    red: "#fe806c" # primary elements
+    dark_red: "#ffa695" # danger elements
+    yellow: "#d6b98c"
+    green: "#a8c68c"
+    aqua: "#91c7be"
+    blue: "#87c2ff"
+    purple: "#eaa6e6"
+  # bg and fg
+  foreground: white
+  background: black
+  # colors
+  primary: red
+  # notices
+  success: green
+  danger: dark_red
+  warning: yellow
+  info: blue
+  # highlighting
+  light: black
+  dark: white
+
+typography:
+  fonts:
+    - family: Atkinson Hyperlegible Next
+      source: google
+    - family: JetBrains Mono
+      source: google
+    - family: EB Garamond
+      source: google
+
+  base: Atkinson Hyperlegible Next
+  link:
+    color: red
+    weight: 600
+  headings:
+    family: EB Garamond
+    weight: 600
+  monospace: 
+    family: JetBrains Mono

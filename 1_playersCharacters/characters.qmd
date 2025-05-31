@@ -2,48 +2,62 @@
 
 Player characters are defined by a combination of their narrative elements, like their backstory, personality, and goals, as well as the mechanical rules that control the effectiveness of their choices during a session. These rules elements, known as "Statistics" or "Stats", and the impacts they have on Pokemon characters, are outlined in this section. You will fill out all of these Game Statistics when completing your character sheet.
 
-## Game Statistics
-
-### Ability Scores
+## Ability Scores
 
 Ability scores are a measurement of your characters core strengths and weaknesses, both physically and mentally. There are six different ability scores;
 
-- **Strength:** Abreviated as "STR". A character's physical brawn.
-  - Influences the power of a character's basic attacks and most physical moves.
-  - Helps your character bash, lift, and push things.
-- **Dexterity** Abreviated as "DEX". A character's agility, reflexes, and coordination.
-  - Influences your characters ranged attacks and accuracy when targeting evasive foes.
-  - Determines the order characters take their turns.
-  - Helps your character sneak around and manuever.
-- **Constitution:** Abreviated as "CON". A character's endurance and stamina.
-  - Influences your character's maximum Hit Points and Belly.
-  - Helps your character resist the effects of poisons and sickness.
-- **Intelligence:** Abreviated as "INT". A character's ability to learn and reason.
-  - Influences the power of a character's special moves.
-  - Helps your character research things and decipher lost languages, like the Unown Script or ancient Foot Runes.
-- **Wisdom:** Abreviated as "WIS". A character's willpower and perceptiveness.
-  - Helps your character percieve hidden things, see through lies, and resist the effects of confusion.
-- **Charisma:** Abreviated as "CHA". A character's personality and leadership ability.
-  - Helps your character make friends and influence other Pokemon, as well as barter with merchants.
+-   **Strength:** Abreviated as "STR". A character's physical brawn.
+    -   Influences the power of a character's basic attacks and most physical moves.
+    -   Helps your character bash, lift, and push things.
+-   **Dexterity** Abreviated as "DEX". A character's agility, reflexes, and coordination.
+    -   Influences your characters ranged attacks and accuracy when targeting evasive foes.
+    -   Determines the order characters take their turns.
+    -   Helps your character sneak around and manuever.
+-   **Constitution:** Abreviated as "CON". A character's endurance and stamina.
+    -   Influences your character's maximum Hit Points and Belly.
+    -   Helps your character resist the effects of poisons and sickness.
+-   **Intelligence:** Abreviated as "INT". A character's ability to learn and reason.
+    -   Influences the power of a character's special moves.
+    -   Helps your character research things and decipher lost languages, like the Unown Script or ancient Foot Runes.
+-   **Wisdom:** Abreviated as "WIS". A character's willpower and perceptiveness.
+    -   Helps your character percieve hidden things, see through lies, and resist the effects of confusion.
+-   **Charisma:** Abreviated as "CHA". A character's personality and leadership ability.
+    -   Helps your character make friends and influence other Pokemon, as well as barter with merchants.
 
 Each of a characters ability scores can vary between a value of 3 (the worst) and 18 (the best).
 
-### Type
+## Ability Score Modifiers
+
+A bonus (or penalty) that is applied to some of a characters rolls based on the value of a their ability scores. The higher the ability score, the bigger the bonus (and inversely, the lower, the bigger the penalty).
+
+| Ability Score Value | Modifier |
+|:-------------------:|:--------:|
+|          3          |    -4    |
+|        4 - 5        |    -3    |
+|        6 - 7        |    -2    |
+|        8 - 9        |    -1    |
+|       10 - 11       |     0    |
+|       12 - 13       |    +1    |
+|       14 - 15       |    +2    |
+|       16 - 17       |    +3    |
+|         18          |    +4    |
+
+## Type
 
 A "Type" is a property of both Pokemon and their moves that influence how effective the later are when used during battle, and grant other passive benefits known as Talents. Each Move has a single defined Type, whilst Pokemon can have one type, or two different types.
 
-### Archetype
+## Archetype
 
 The role that your Pokemon plays in their team. A Pokemon's archetype grants additional Talents to support them during their adventures- with further power being granted as your Pokemon's Rank increases.
 
-### Rank
+## Rank
 
 An indication of a Pokemon's experience as an adventurer. Pokemon grow stronger as their Rank increases, with Rank 1 Pokemon being fresh greenhorns, and Rank 10 Pokemon being capable of nigh-legendary feats.
 
 A table of the ranks and the benefits bestowed to a Pokemon if they meet them is shown below;
 
 | Rank |  Title  | Move Tier | Archetype Talents | Evolution |   EXP   |
-| :--: | :-----: | :-------: | :---------------: | :-------: | :-----: |
+|:----:|:-------:|:---------:|:-----------------:|:---------:|:-------:|
 |  1   | Rookie  |     1     |         1         |   Basic   |    0    |
 |  2   | Normal  |     1     |         2         |   Basic   |  1,500  |
 |  3   | Bronze  |     2     |         2         |   Basic   |  3,000  |
@@ -59,31 +73,35 @@ A table of the ranks and the benefits bestowed to a Pokemon if they meet them is
 Whilst a list of titles corresponding to different ranks is provided, GMs are free to use their own Rank titles if they come up with titles that better fit the story of their campaign. And of course, per rule number one, if the table doesn't want to bother remembering specific titles, they're free to refer to ranks by their associated number instead.
 :::
 
-### Experience Points
+## Experience Points
 
 Also known as "EXP". An indication of the progress a Pokemon has made on being promoted to the next rank. EXP is awarded by the GM after the players successfully complete an adventure. When enough EXP has gained, the Player Characters rank up, and gain new Moves and Talents if applicable.
 
-### Talents
+## Talents
 
 Additional powers that a Pokemon can call upon during their adventure. Some talents are granted to a Pokemon based on their typing, whilst others are granted by a Pokemon's archetype.
 
-- **Type Talents** are granted to a Pokemon depending on their current type. If a Pokemon changes type, either due to a status effect or by evolving, their Type Talents will change as a result.
+-   **Type Talents** are granted to a Pokemon depending on their current type. If a Pokemon changes type, either due to a status effect or by evolving, their Type Talents will change as a result.
 
-- **Archetype Talents** are granted to a Pokemon by their archetype, with more talents becoming available as a character levels up. A player is free to chose from the selection of talents an archetype offers in whatever order they wish.
+-   **Archetype Talents** are granted to a Pokemon by their archetype, with more talents becoming available as a character levels up. A player is free to chose from the selection of talents an archetype offers in whatever order they wish.
 
-### Moves
+## Moves
 
 Natural yet nonetheless fantastic powers that Pokemon can call upon to accomplish various tasks. Pokemon can know up to four moves at a given time. The pool of moves a Pokemon can learn is determined based on their type and current rank.
 
-### Move Tier
+## Move Tier
 
 The highest tier of moves a character is able to learn.
 
-### Items
+## Items
 
 Items are all manner of useful tools and medicines that can bestow helpful or harmful effects when used properly. By default, characters can hold on to one item at a time in their "One Item Inventory". More items can be shared about out of the players shared inventory when they are in relatively close proximity to eachother.
 
-### Hit Points
+::: {.callout-note .column-margin}
+Many residents of the World of Pokemon own purely cosmetic personal possessions, like plain scarves or other visual accessories. Items that are purely cosmetic exist only in narration- it's not necessary to keep track of on your sheet.
+:::
+
+## Hit Points
 
 Abreviated as "HP". A score indicating the amount of damage a Pokemon can withstand. Characters have both a Maximum Hit Points and a Current Hit Points.
 
@@ -91,7 +109,7 @@ When a Pokemon is harmed by attacks, hazards, or other sources of damage, their 
 
 If a Pokemon's Current HP is reduced to 0, they are knocked out! A Pokemon's Current HP cannot fall below 0, nor rise above their Max HP.
 
-### Belly
+## Belly
 
 A score indicating the level of a Pokemon's hunger. Much like HP, a Pokemon has both a Maximum Belly and a Current Belly.
 
@@ -99,10 +117,10 @@ A Pokemon's Current Belly will gradually deplete over time when they are out exp
 
 If a Pokemon's Current Belly falls to 0, they are inflicted with the Exhausted Status Effect until it rises above 0 again. A Pokemon's Current Belly cannot fall below 0, nor rise above their Max Belly.
 
-### Background
+## Background
 
-A Pokemon's background is an occupation or role in society they held before they became an adventurer. If the GM deems it appropriate, a fitting Background may give a Pokemon advantage when rolling for certain checks. 
+A Pokemon's background is an occupation or role in society they held before they became an adventurer. If the GM deems it appropriate, a fitting Background may give a Pokemon advantage when rolling for certain checks.
 
-### Poke
+## Poke
 
-The currency of the World of Pokemon. Poke is generally shared amongst the team, like items, but you can also hold on to some personal savings on your person.
+The currency of the World of Pokemon. Poke is generally shared amongst the team, like items, but you can also hold on to personal savings in case you don't have access to the team inventory. It can be noted in shorthand as a number followed by the letter 'p', for example, `100p` is short for 100 Poke.

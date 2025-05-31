@@ -1,1 +1,65 @@
 # Character Creation
+
+As noted earlier, the very first thing you need to create a character is a character sheet, where you'll record all information pertaining to the new character. After that, you can begin the process of defining your characters skills and abilities.
+
+Note that to keep this book organized, the lists of types, archetypes, backgrounds, moves, and items are all contained in the appendix section, rather than being listed here.
+
+## Choose a Species and Type
+
+The first step to creating a character is to choose their species, and thus by extension, their types. Doing this first is wise, since a Pokemon's species will likely have a heavy influence on their history, personality, and long term goals.
+
+A Pokemon can have either one single type, or two different types. Choose your types, fill them in to your sheet, and then note down their respective type talents as well. If you choose to only have a single type, when you fill out your type talents, note down your second type talent as the "Monotype" talent.
+
+## Determine Ability Scores
+
+Once you have an idea of the direction you wish to take your character, the next step is to determine their ability scores. There are two commonplace methods to do this.
+
+### Rolling for Scores
+
+Take 3 d6's, and roll them six times. Note down the sum of each roll, and then assign each number to a single one of your ability scores however you like.
+
+### The Standard Array
+
+If you want to play a generally balanced character, you can instead use the pre-determined average ability score rolls of 14, 12, 11, 10, 9, and 7.
+
+Assign one of each number to your character's ability scores however you like.
+
+## Calculate Ability Score Modifiers
+
+With your ability scores determined, determine the values of their respective ability score modifiers, and note them on your sheet.
+
+## Choose an Archetype
+
+Once your ability scores are assigned, pick an archetype that you think best fits the kind of character you're looking to play. Once you pick, choose one of your archetypes available talents, and note it down under the appropriate section of your sheet.
+
+## Calculate HP and Belly
+
+Based on your ability score modifiers and any talents that may effect them, calculate the value of your Max HP and Max Belly as follows;
+
+-   **Starting Max HP:** `15 + CON Modifier`.
+
+-   **Starting Max Belly:** `7 + CON Modifier`.
+
+## Choose a Background
+
+Pick a background for your character from the list, based on what you think best fits their history. Alternatively, if you can't choose, roll a d20 and pick the background that lines up with the result.
+
+## Choose your Moves
+
+Pick up to four Rank 1 moves from your type's respective move list(s), and note down the name, type, damage roll, and PP of those moves on your character sheet.
+
+## Starting Items
+
+Each member of the team starts with a rations item, with 7 uses.
+
+## Starting Poke
+
+Each character starts with 100 Poke to their name. You're free to put this into your shared inventory, or to keep it to yourself. Alternatively, you can chose to spend this on further starting items.
+
+## Note Rank and EXP
+
+Your character will typically start play at Rank 1 as a Novice, with 0 EXP.
+
+## Pick a Name
+
+Finally, pick a fitting name for your character. Some Pokemon choose to only go by their species name, whilst others will pick a unique name of their own to go by.
