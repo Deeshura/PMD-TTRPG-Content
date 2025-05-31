@@ -93,9 +93,7 @@ bibliography: references.bib
 format:
   html:
     # theme
-    brand: 
-      light: light-brand.yml
-      dark: dark-brand.yml
+    brand: _brand.yml
   pdf:
     pdf-engine: lualatex
     # class
