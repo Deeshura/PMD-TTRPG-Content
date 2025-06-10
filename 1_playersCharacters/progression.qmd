@@ -1,1 +1,17 @@
 # Character Progression
+
+When a character embarks on adventures and completes important tasks, they earn Experience Points (or "EXP"). How EXP is awarded is dependant on the preferences of the GM; some like to award it in fixed batches depending on plot progression (known as "Milestone Levelling") whilst others like to specific amounts of EXP to defeating foes or safely taking treasure out of a dungeon.
+
+## Ranking Up
+
+When a character earns enough EXP, they "Rank Up" and progress to the next rank. This grants that character benefits that are shown on @tbl-rank. This can include selecting additional talents from a characters archetype, and gaining access to a higher tier of moves.
+
+## Evolution
+
+Furthermore, upon reaching certain Rank thresholds, a Pokemon may chose to evolve into a new species, if they are able to do so. "Basic" Pokemon evolve into "Stage 1" Pokemon, and Stage 1 Pokemon evolve into "Stage 2" Pokemon. Evolution is, for the most part, cosmetic- it does not give Pokemon bonuses to their ability scores.
+
+However, when a Pokemon evolves, they may sometimes change their typing as a result. If this happens;
+
+- The Pokemon retains access to any moves they would have learned, and been able to learn, prior to evolving. However, they cannot learn moves of future tiers unless they retain that corresponding type.
+    - For example, a Grass-Type Basic Pokemon evolving into a Ghost-Type Stage 1 Pokemon at Rank 4 would continue to be able to learn Tier 1 and Tier 2 Grass-Type moves, but would not be able to learn Grass-Type moves from Tiers 3 and above.
+- The Pokemon's Type Talents will immediately change accordingly. This includes losing "Monotype" if your Pokemon no longer has a single type after evolution.

@@ -8,6 +8,10 @@ Note that to keep this book organized, the lists of types, archetypes, backgroun
 
 The first step to creating a character is to choose their species, and thus by extension, their types. Doing this first is wise, since a Pokemon's species will likely have a heavy influence on their history, personality, and long term goals.
 
+::: {.callout-note .column-margin}
+Though not mandated by these rules, some GM's will prefer to limit players to starting as "Basic" Pokemon, which are Pokemon that have not evolved. Furthermore, GM's may prevent players from playing as Legendary, Mythical, or other kinds of "Special" Pokemon, due to their rare and powerful nature in-universe.
+:::
+
 A Pokemon can have either one single type, or two different types. Choose your types, fill them in to your sheet, and then note down their respective type talents as well. If you choose to only have a single type, when you fill out your type talents, note down your second type talent as the "Monotype" talent.
 
 ## Determine Ability Scores
