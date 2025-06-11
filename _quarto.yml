@@ -109,3 +109,20 @@ format:
       - right=15mm
       - top=20mm
       - bottom=25mm
+    #header
+    include-in-header:
+      - text: |
+          \usepackage{array}
+          \usepackage{caption}
+          \usepackage{graphicx}
+          \usepackage{siunitx}
+          \usepackage[normalem]{ulem}
+          \usepackage{colortbl}
+          \usepackage{multirow}
+          \usepackage{hhline}
+          \usepackage{calc}
+          \usepackage{tabularx}
+          \usepackage{threeparttable}
+          \usepackage{wrapfig}
+          \usepackage{adjustbox}
+          \usepackage{hyperref}

@@ -1,1 +1,44 @@
 # List of Grass Type Moves {.unnumbered}
+
+```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
+{{< include ../required.R >}}
+
+page_type <- "grass"
+
+shade_100 <- filter(type_palette, type == page_type) |>
+  select(shade_100) |> as.character()
+shade_200 <- filter(type_palette, type == page_type) |>
+  select(shade_200) |> as.character()
+shade_600 <- filter(type_palette, type == page_type) |>
+  select(shade_600) |> as.character()
+```
+
+```{r}
+#| label: "test block"
+#| echo: FALSE
+#| warning: FALSE
+#| layout-ncol: 2
+#| output: asis
+
+data <- data.frame(a = c("Leaf Blade", "Rank:", "Damage:", "Tags:", "Effect:"),
+                    b = c("", 3, "3d6", "Contact, Slicing, Wicked", ""),
+                    c = c("", "Category:", "Range:", "", ""),
+                    d = c("Grass", "Physical", "Close", "", ""))
+
+table <- as_hux(data) |>
+  merge_cells(1, 1:3) |>
+  merge_cells(5, 2:4) |>
+  merge_cells(6, 2:4) |>
+  set_header_rows(2, TRUE) |>
+  style_headers(bold = TRUE) |>
+  set_bold(c(1, 3), row = 1:6) |>
+  set_align(row = 2, col = 4, 'right') |>
+  set_top_border(row = 2, value = 2) |>
+  set_bottom_border(row = 2:5, value = 1) |>
+  set_bottom_border(row = 6, value = 2) |>
+  set_tb_border_colors(row = 2:6, value = shade_600) |>
+  map_background_color(by_rows(shade_100, shade_200))
+
+  table[2:6,]
+  table[2:6,]
+```
