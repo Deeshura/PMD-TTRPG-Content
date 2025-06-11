@@ -1,1 +1,26 @@
 # List of Backgrounds {.unnumbered}
+
+The available backgrounds for your character are as follows;
+
+| d20 | Name | Details |
+|:--:|:--:|----|
+| 1 | **Urchin** | You grew up on the streets of a large city. |
+| 2 | **Wanted** | You're a criminal with a price on your head. |
+| 3 | **Informant** | You were involved with some scary folks, but got clean. |
+| 4 | **Agent** | You've connections and contacts in many places. |
+| 5 | **Outcast** | You were banished from your home for one reason or another. |
+| 6 | **Orphan** | You were raised by a guardian of a different species. |
+| 7 | **Apprentice** | You've studied a little bit of the arcane arts. |
+| 8 | **Jeweler** | You've got a keen eye for determining the value of goods. |
+| 9 | **Herbalist** | You know how to make some herbal remedies. |
+| 10 | **Tribesmon** | You were part of a tribe in the wilds or a mystery dungeon. |
+| 11 | **Mercenary** | You've done dirty work for money before. |
+| 12 | **Sailor** | You know a thing or two about navigating the seas. |
+| 13 | **Historian** | You've studied ancient history and legendary Pokemon. |
+| 14 | **Enforcer** | You've worked a clerical position in law enforcement. |
+| 15 | **Hermit** | You've spent much of your life in the woods and wilds. |
+| 16 | **Watchmon** | You've spent many nights awake keeping watch for threats. |
+| 17 | **Minstrel** | You've made a career of singing songs on the road. |
+| 18 | **Academic** | You've studied mystery dungeons and how they work. |
+| 19 | **Noble** | You come from a well-off and famous family. |
+| 20 | **Chirugeon** | You're trained in first aid and surgery. |

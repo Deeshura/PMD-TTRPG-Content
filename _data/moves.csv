@@ -1,0 +1,254 @@
+﻿name,type,Category,die,tier,range,true_pp,tags,effects
+Explosion,Normal,Physical,8d6,3,Self Burst,2,Explosive,"The user of this move has their HP reduced to 0 after using it, instantly knocking them out."
+Giga Impact,Normal,Physical,5d6,5,Near Beam Charge,2,Contact,"After using this move, the user must spend five minutes recharging, and are unable to take actions."
+Hi Jump Kick,Fighting,Physical,5d6,5,Near Charge,4,Contact,"If this move fails to damage the target, the user takes 3d6 recoil damage."
+Megahorn,Bug,Physical,4d6,5,Near Charge,4,"Contact, Inaccurate",
+Outrage,Dragon,Physical,5d6,4,Close,4,Contact,"After using this move, the user flies into a rage, and must use it again during their next turn if there is an eligible target. Otherwise, they become inflicted with the Confused status effect."
+Close Combat,Fighting,Physical,4d6,4,Close,4,Contact,"After using this move, the user is inflicted with the Wide Open status effect."
+Flare Blitz,Fire,Physical,4d6,5,Near Charge,6,Contact,"After using this move, the user takes 2d6 recoil damage. Roll a chance die- on a 6, the target is inflicted with the Burned status condition."
+Brave Bird,Flying,Physical,4d6,5,Near Charge,6,Contact,"After using this move, the user takes 2d6 recoil damage."
+Power Whip,Grass,Physical,4d6,5,Close,4,"Contact, Inaccurate",
+Double Edge,Normal,Physical,4d6,5,Near Charge,6,Contact,"After using this move, the user takes 2d6 recoil damage."
+Thrash,Normal,Physical,4d6,4,Close,4,Contact,"After using this move, the user flies into a rage, and must use it again during their next turn if there is an eligible target. Otherwise, they become inflicted with the Confused status effect."
+Gunk Shot,Poison,Physical,4d6,5,Near Shot,2,"Inaccurate, Projectile","Roll a chance die- on a 5 or a 6, the target is inflicted with the Poisoned status condition."
+Cross Chop,Fighting,Physical,4d6,5,Close,2,"Contact, Wicked",
+Dynamicpunch,Fighting,Physical,4d6,5,Close,2,"Contact, Inaccurate, Punch",The target is inflicted with the Confused status effect.
+Earthquake,Ground,Physical,4d6,5,Room Except Self,4,,
+Dragon Rush,Dragon,Physical,4d6,5,Near Charge,4,Contact,"Roll a chance die- on a 5 or a 6, the target is inflicted with the Flinching status effect."
+Stone Edge,Rock,Physical,4d6,5,Near Shot,2,"Wicked, Inaccurate",
+Iron Tail,Steel,Physical,4d6,4,Close,6,"Contact, Inaccurate","Roll a chance die- on a 5 or a 6, the target is inflicted with the Off Guard status effect."
+Crabhammer,Water,Physical,4d6,4,Close,4,"Contact, Wicked",
+Wild Charge,Electric,Physical,3d6,4,Near Charge,6,Contact,"After using this move, the user takes 2d6 recoil damage. Roll a chance die- on a 6, the target is inflicted with the Paralyzed status condition."
+Play Rough,Fairy,Physical,3d6,3,Close,4,Contact,"Roll a chance die- on a 6, the target is inflicted with the Weakened status effect."
+Aqua Tail,Water,Physical,3d6,3,Close,4,Contact,
+Icicle Crash,Ice,Physical,3d6,4,Near Shot,4,Projectile,"Roll a chance die- on a 5 or 6, the target is inflicted with the Flinching status effect."
+Body Slam,Normal,Physical,3d6,4,Near Charge,6,Contact,"Roll a chance die- on a 5 or 6, the target is inflicted with the Paralyzed status condition."
+Leech Life,Bug,Physical,3d6,4,Close,4,"Contact, Draining",
+X Scissor,Bug,Physical,3d6,3,Close,6,"Contact, Slicing",
+Crunch,Dark,Physical,3d6,3,Close,6,Contact,"Roll a chance die- on a 6, the target is inflicted with the Off Guard status effect."
+Dragon Claw,Dragon,Physical,3d6,3,Close,6,Contact,
+Drill Peck,Flying,Physical,3d6,3,Close,8,Contact,
+Seed Bomb,Grass,Physical,3d6,5,Near Burst,6,"Contact, Explosive, Projectile",
+Extremespeed,Normal,Physical,3d6,4,Near Charge,2,Contact,The user is moved to the top of the initiative order at the start of the next round.
+Hyper Fang,Normal,Physical,3d6,3,Close,6,"Contact, Biting","Roll a chance die- on a 6, the target is inflicted with the Flinching status effect."
+Strength,Normal,Physical,3d6,3,Close,6,Contact,
+Poison Jab,Poison,Physical,3d6,3,Close,8,"Contact, Punch","Roll a chance die- on a 5 or 6, the target is inflicted with the Poisoned status condition."
+Zen Headbutt,Psychic,Physical,3d6,4,Near Charge,6,Contact,"Roll a chance die- on a 6, the target is inflicted with the Flinching status effect."
+Iron Head,Steel,Physical,3d6,4,Near Charge,6,Contact,"Roll a chance die- on a 6, the target is inflicted with the Flinching status effect."
+Waterfall,Water,Physical,3d6,4,Near Charge,6,Contact,"Roll a chance die- on a 6, the target is inflicted with the Flinching status effect."
+Thunderpunch,Electric,Physical,3d6,3,Close,6,"Contact, Punch","Roll a chance die- on a 6, the target is inflicted with the Paralyzed status condition."
+Brick Break,Fighting,Physical,3d6,3,Close,6,Contact,"Ignores the effects of Light Screen, Reflect, and Protect on the target, and also removes them."
+Drain Punch,Fighting,Physical,3d6,3,Close,4,"Contact, Punch, Draining",
+Mystical Fire,Fire,Special,3d6,4,Near Shot,2,,The target is inflicted with the Weakened status condition.
+Fire Punch,Fire,Physical,3d6,3,Close,6,"Contact, Punch","Roll a chance die- on a 6, the target is inflicted with the Burned status condition."
+Ice Punch,Ice,Physical,3d6,3,Close,6,"Contact, Punch","Roll a chance die- on a 6, the target is inflicted with the Frostbite status condition."
+Spirit Break,Fairy,Physical,3d6,3,Close,4,,The target is inflicted with the Weakened status condition.
+Rock Slide,Rock,Physical,3d6,4,Near Shot,4,"Inaccurate, Projectile","Roll a chance die- on a 5 or 6, the target is inflicted with the Flinching status effect."
+Night Slash,Dark,Physical,3d6,3,Close,6,"Contact, Slicing, Wicked",
+Sucker Punch,Dark,Physical,3d6,2,Close,2,Contact,"This move is not used immediately. Instead, using it ""prepares"" until the beginning of your next turn; the move is then used on a Close target when they use a Physical or Special move during their turn."
+Shadow Claw,Ghost,Physical,3d6,3,Close,6,"Contact, Wicked",
+Dizzy Punch,Normal,Physical,3d6,3,Close,4,"Contact, Punch","Roll a chance die- on a 5 or 6, the target is inflicted with the Confused status effect."
+Headbutt,Normal,Physical,3d6,4,Near Charge,6,Contact,"Roll a chance die- on a 5 or 6, the target is inflicted with the Flinching status effect."
+Slash,Normal,Physical,3d6,3,Close,8,"Contact, Slicing, Wicked",
+Steel Wing,Steel,Physical,3d6,4,Near Charge,10,Contact,"Roll a chance die- on a 6, the user is inflicted with the Bolstered status effect."
+Knock Off,Dark,Physical,3d6,2,Close,8,Contact,"If the target is has a held item (or an item in their one-item inventory), it is knocked off of them, and thrown to the floor."
+U Turn,Bug,Physical,2d6,3,Close,8,Contact,"After using this move, the user may move a distance up to Near."
+Bug Bite,Bug,Physical,2d6,2,Close,8,"Contact, Biting","If the target has an item in their inventory that restores Belly or has ""Berry"" in its name, the user takes that item and eats it, immediately receiving its benefits. If this is used against a target with a team inventory, the first eligible item in alphabetical order is taken from the bag."
+Bite,Dark,Physical,2d6,2,Close,10,"Contact, Biting","Roll a chance die- on a 6, the target is inflicted with the Flinching status condition."
+Feint Attack,Dark,Physical,2d6,2,Close,8,"Contact, Hawkeye",
+Thief,Dark,Physical,2d6,2,Close,10,Contact,"If the user has room in their inventory, they take the first item in alphabetical order from the targets inventory and place it in theirs."
+Spark,Electric,Physical,2d6,2,Close,8,Contact,"Roll a chance die- on a 5 or 6, the target is inflicted with the Paralyzed status condition."
+Fly,Flying,Physical,2d6,3,Close,6,Contact,"After using this move, the user may move a distance up to Near."
+Aerial Ace,Flying,Physical,2d6,2,Close,8,"Contact, Hawkeye, Slicing",
+Wing Attack,Flying,Physical,2d6,2,Near Charge,10,Contact,
+Dig,Ground,Physical,2d6,3,Close,4,Contact,"After using this move, the user may move a distance up to Near."
+Bulldoze,Ground,Physical,2d6,4,Near Burst,8,,All targets are moved down one place in the initiative order at the start of the next round.
+Avalanche,Ice,Physical,2d6,3,Near Burst,4,,"If the user took damage earlier in this round, this move rolls an additional 2d6 damage."
+Facade,Normal,Physical,2d6,3,Close,8,Contact,"If the user has a status condition, this move rolls an additional 2d6 damage."
+Horn Attack,Normal,Physical,2d6,3,Close,10,Contact,
+Stomp,Normal,Physical,2d6,3,Close,8,"Contact, Hawkeye",
+Acrobatics,Flying,Physical,2d6,3,Close,6,Contact,"If the user has no held item, this move rolls an additional 1d6 damage."
+Razor Leaf,Grass,Physical,2d6,4,Near Shot,10,"Slicing, Wicked",
+Karate Chop,Fighting,Physical,2d6,1,Close,10,"Contact, Wicked",
+Flame Charge,Fire,Physical,2d6,3,Near Charge,8,Contact,The user moves up one place in the initiative order.
+Dual Wingbeat,Flying,Physical,2d6,3,Close,2,"Contact, Rapid Strike 2",
+Bonemerang,Ground,Physical,2d6,3,Near Shot,4,Rapid Strike 2,
+Cut,Normal,Physical,2d6,2,Close,10,"Contact, Slicing",
+Rapid Spin,Normal,Physical,2d6,3,Self Burst,10,Contact,Removes any traps and harmful debris from the surrounding floor.
+Rock Throw,Rock,Physical,2d6,3,Near Shot,6,Projectile,
+Metal Claw,Steel,Physical,2d6,2,Close,10,Contact,"Roll a chance die- on a 6, the user is inflicted with the Bolstered status effect."
+Vine Whip,Grass,Physical,2d6,2,Close,10,Contact,
+Pursuit,Dark,Physical,1d6,1,Close,8,Contact,"This move is not used immediately. Instead, using it ""prepares"" until the beginning of your next turn; the user can then choose to use the move on a Close target when they attempt to move out of Close range during their turn."
+Mach Punch,Fighting,Physical,1d6,2,Near Charge,10,Contact,The user moves up one place in the initiative order.
+Rock Smash,Fighting,Physical,1d6,1,Close,6,Contact,"Roll a chance die- on a 4, 5 or 6, the target is inflicted with the Off Guard status condition."
+Ice Shard,Ice,Physical,1d6,2,Near Shot,10,Projectile,
+Accelerock,Rock,Physical,1d6,2,Near Charge,10,Contact,The user moves up one place in the initiative order.
+Pay Day,Normal,Physical,1d6,3,Near Shot,8,Projectile,The user throws Poke at the target- and may spend 250p to increase this move's damage roll by an additional 2d6 damage.
+Quick Attack,Normal,Physical,1d6,2,Near Charge,10,Contact,The user moves up one place in the initiative order.
+Scratch,Normal,Physical,1d6,1,Close,10,Contact,
+Tackle,Normal,Physical,1d6,1,Close,10,Contact,
+Bullet Punch,Steel,Physical,1d6,2,Near Charge,10,"Contact, Punching",The user moves up one place in the initiative order.
+Aqua Jet,Water,Physical,1d6,2,Near Charge,8,Contact,The user moves up one place in the initiative order.
+Peck,Flying,Physical,1d6,1,Close,10,Contact,
+Double Kick,Fighting,Physical,2d6,3,Close,10,"Contact, Rapid Strike 2",
+Astonish,Ghost,Physical,1d6,1,Close,6,Contact,"Roll a chance die- on a 5 or 6, the target is inflicted with the Flinching status effect."
+Lick,Ghost,Physical,1d6,1,Close,10,Contact,"Roll a chance die- on a 5 or 6, the target is inflicted with the Paralyzed status condition."
+Rollout,Rock,Physical,1d6,2,Near Charge,8,Contact,"For each consecutive turn this move is used against a different target, its damage roll increases by 1d6 damage."
+Pin Missile,Bug,Physical,1d6,3,Near Shot,8,"Projectile, Multi-Strike",
+Icicle Spear,Ice,Physical,1d6,3,Near Shot,10,"Projectile, Multi-Strike",
+Rock Blast,Rock,Physical,1d6,3,Near Shot,10,"Projectile, Multi-Strike",
+Rage,Normal,Physical,1d6,2,Close,8,Contact,"The user gains the ""Rage"" status effect."
+Fury Strikes,Normal,Physical,1d6,3,Close,6,"Contract, Multi-Strike",
+Double Slap,Normal,Physical,1d6,2,Close,4,"Contact, Rapid Strike 2",
+Wrap,Normal,Physical,1d6,2,Close,8,Contact,"The user is inflicted with the Wrapping status condition, and the target is inflicted with the Wrapped status condition."
+Poison Sting,Poison,Physical,1d6,1,Near Shot,10,Projectile,"Roll a chance die- on a 5 or a 6, the target is inflicted with the Poisoned status condition."
+Counter,Fighting,Physical,-,1,Close,8,Contact,"This move is not used immediately. Instead, using it ""prepares"" until the beginning of your next turn. Whenever this Pokemon is struck by a move with the Contact tag, they counterattack and inflict twice as much damage as they just took to the one that attacked them."
+Low Kick,Fighting,Physical,1d6,2,Close,8,Contact,This move inflicts additional damage equal to the targets CON modifier.
+Reversal,Fighting,Physical,1d6,3,Close,6,Contact,"If the user took damage earlier in this round, this move rolls an additional 2d6 damage."
+Seismic Toss,Fighting,Physical,1d6,4,"Close, then Near Shot",8,"Contact, then Projectile","The user picks up an adjacent target, and throws them within Near distance. The target, and another target they may hit with thrown, both take damage from this move."
+Return,Normal,Physical,1d6,3,Close,8,Contact,The damage roll of this move increases by an additonal 1d6 for each ally adjacent to the user.
+Gyro Ball,Steel,Physical,1d6,3,Close,6,Contact,The damage roll of this move increases by an additional 1d6 for each turn the user is below the target in the initiative order.
+Magnitude,Ground,Physical,-,4,Room Except Self,10,,Roll a chance die. This rolls an amount of d6's for damage equal to the result of the chance die roll.
+Stealth Rock,Normal,Physical,-,2,Near Burst,4,Projectile,"Sets a trap- floating stones hover in the area this move effects, inflicting 1d6 damage for each meter a Pokemon travels in it. This damage is rolled as Super Effective if the victim is weak to Rock-type moves."
+Hyper Beam,Normal,Special,5d6,5,Near Beam,2,,"After using this move, the user must spend five minutes recharging, and are unable to take actions."
+Zap Cannon,Electric,Special,4d6,5,Near Beam,2,Inaccurate,The target(s) is/are inflicted with the Paralyzed status condition.
+Focus Blast,Fighting,Special,4d6,5,Near Burst,2,Inaccurate,"Roll a chance die- on a 6, the target(s) is/are inflicted with the Off Guard status effect."
+Petal Dance,Grass,Special,4d6,5,Self Burst,4,,"After using this move, the user flies into a rage, and must use it again during their next turn if there is an eligible target. Otherwise, they become inflicted with the Confused status effect."
+Solar Beam,Grass,Special,4d6,5,Beam,4,,"Unless the current weather is ""Sunny"", after using this move, the user must spend their next turn recharging, losing their action."
+Future Sight,Psychic,Special,4d6,4,Near Shot,4,,Roll a chance die. The result of the chance die is the amount of turns before the target of this move takes damage from it. This move fail to come into effect if the user is Knocked Out prior to the damage going out.
+Thunder,Electric,Special,4d6,5,Near Shot,4,Inaccurate,"This move is not considered to be Inaccurate if the current weather is ""Rain"". Roll a chance die- on a 5 or a 6, the target in inflicted with the Paralyzed status condition."
+Fire Blast,Fire,Special,4d6,5,Near Burst,2,Inaccurate,"Roll a chance die. On a 5 or a 6, the target(s) is/are inflicted with the Burned status condition."
+Hurricane,Flying,Special,4d6,5,Near Burst,4,"Windy, Inaccurate","This move is not considered to be Inaccurate if the current weather is ""Rain"". Roll a chance die- on a 5 or a 6, the target(s) is/are inflicted with the Confused status condition."
+Blizzard,Ice,Special,4d6,5,Room Choice,2,Inaccurate,"This move is not considered to be Inaccurate if the current weather is ""Snowy""."
+Hydro Pump,Water,Special,4d6,5,Near Beam,2,Inaccurate,
+Dream Eater,Psychic,Special,4d6,4,Close,6,Draining,"This move has no effect if the target is not inflicted with the ""Sleep"" status condition."
+Moonblast,Fairy,Special,4d6,5,Near Shot,6,Projectile,"This move is not considered to be Inaccurate if the Moon is visible to the user. Roll a chance die- on a 5 or 6, the target is inflicted with the Weakened status condition."
+Bug Buzz,Bug,Special,3d6,4,Self Burst,4,Sound,"Roll a chance die. On a 6, the target(s) is/are inflicted with the Off Guard status effect."
+Thunderbolt,Electric,Special,3d6,4,Near Shot,6,,"Roll a chance die. On a 6, the target is inflicted with the Paralyzed status condition."
+Flamethrower,Fire,Special,3d6,4,Near Shot,6,,"Roll a chance die. On a 6, the target is inflicted with the Burned status condition."
+Energy Ball,Grass,Special,3d6,4,Near Shot,4,Projectile,"Roll a chance die. On a 6, the target is inflicted with the Off Guard status effect."
+Earth Power,Ground,Special,3d6,4,Near Burst,4,,"Roll a chance die. On a 6, the target is inflicted with the Off Guard status effect."
+Ice Beam,Ice,Special,3d6,4,Near Shot,4,,"Roll a chance die. On a 6, the target is inflicted with the Frostbite status condition."
+Hyper Voice,Normal,Special,3d6,4,Self Burst,4,Sound,
+Sludge Bomb,Poison,Special,3d6,4,Near Burst,4,"Projectile, Explosive","Roll a chance die. On a 5 or 6, the target is inflicted with the Poisoned status condition."
+Psychic,Psychic,Special,3d6,4,Near Shot,4,,"Roll a chance die. On a 6, the target is inflicted with the Off Guard status condition."
+Surf,Water,Special,3d6,4,Room Except Self,6,,
+Dragon Pulse,Dragon,Special,3d6,4,Near Shot,4,Aura,
+Dark Pulse,Dark,Special,3d6,4,Near Shot,6,Aura,
+Dazzling Gleam,Fairy,Special,3d6,4,Self Burst,4,,
+Aura Sphere,Fighting,Special,3d6,4,Near Shot,8,"Aura, Hawkeye",
+Shadow Ball,Ghost,Special,3d6,4,Near Shot,6,Projectile,
+Tri Attack,Normal,Special,2d6,4,Near Shot,4,Rapid Strike 3,"Roll a chance die. On a 4, the target is inflicted with the Burned status condition. On a 5, the target is inflicted with the Paralyzed status condition. On a 6, the target is inflicted with the Frostbite status condition."
+Extrasensory,Psychic,Special,3d6,4,Self Burst,8,,"Roll a chance die. On a 6, the target(s) is/are inflicted with the Flinching status condition."
+Power Gem,Rock,Special,3d6,4,Near Shot,8,,
+Flash Cannon,Steel,Special,3d6,4,Near Shot,4,Projectile,"Roll a chance die. On a 6, the target is inflicted with the Off Guard status condition."
+Scald,Water,Special,3d6,4,Near Shot,6,,"Roll a chance die. On a 5 or 6, the target is inflicted with the Burned status condition."
+Air Slash,Flying,Special,3d6,4,Near Shot,6,Slicing,"Roll a chance die. On a 5 or 6, the target is inflicted with the Flinching status effect."
+Giga Drain,Grass,Special,3d6,3,Close,4,Draining,
+Psycho Cut,Psychic,Special,3d6,4,Near Shot,4,"Slicing, Wicked",
+Octazooka,Water,Special,2d6,4,Near Shot,4,Projectile,"Roll a chance die. On a 4, 5, or 6, the target is inflicted with the Flinching status effect."
+Dragonbreath,Dragon,Special,2d6,3,Near Shot,8,,"Roll a chance die. On a 5, or 6, the target is inflicted with the Paralyzed status condition."
+Volt Switch,Electric,Special,1d6,2,Near Shot,8,,"After using this move, the user may move a distance up to Near."
+Hex,Ghost,Special,2d6,3,Near Shot,4,,"If the target has a status condition, this move rolls an additional 2d6 damage."
+Mega Drain,Grass,Special,2d6,2,Close,6,Draining,
+Aurora Beam,Ice,Special,2d6,3,Near Beam,8,,"Roll a chance die. On a 6, the target(s) is/are inflicted with the Weakened status effect."
+Hidden Power,Normal,Special,2d6,3,Self Burst,6,,This move is treated as the same type as the users first type when determining effectiveness.
+Swift,Normal,Special,2d6,3,Near Shot,8,Hawkeye,
+Mud Bomb,Ground,Special,2d6,3,Near Burst,10,"Projectile, Explosive","Roll a chance die. On a 5, or 6, the target(s) is/are inflicted with the Flinching status effect."
+Venoshock,Poison,Special,2d6,3,Near Shot,4,,"If the target is inflicted with the Poisoned status condition, this move rolls an additional 2d6 damage."
+Psybeam,Psychic,Special,2d6,3,Near Shot,8,,"Roll a chance die. On a 6, the target is inflicted with the Confused status effect."
+Ancientpower,Rock,Special,2d6,4,Near Shot,2,,"Roll a chance die. On a 6, the user gains the Bolstered and Emboldened status effects."
+Bubble Beam,Water,Special,2d6,3,Near Shot,8,,"Roll a chance die. On a 6, the target moves down one place in the initiative order."
+Water Pulse,Water,Special,2d6,3,Near Shot,8,Aura,"Roll a chance die. On a 6, the target is inflicted with the Confused status effect."
+Draining Kiss,Fairy,Special,2d6,2,Close,4,"Contact, Draining",
+Confusion,Psychic,Special,2d6,2,Near Shot,10,,"Roll a chance die. On a 6, the target is inflicted with the Confused status effect."
+Dragon Rage,Dragon,Special,1d6,2,Near Shot,4,,
+Thundershock,Electric,Special,1d6,1,Near Shot,10,,"Roll a chance die. On a 6, the target is inflicted with the Paralyzed status condition."
+Disarm Voice,Fairy,Special,1d6,1,Near Shot,6,"Sound, Hawkeye",
+Ember,Fire,Special,1d6,2,Near Shot,10,,"Roll a chance die. On a 6, the target is inflicted with the Burned status condition."
+Gust,Flying,Special,1d6,1,Near Shot,10,Windy,
+Acid,Poison,Special,1d6,1,Self Burst,10,,"Roll a chance die. One a 6, the target(s) is/are inflicted with the Off Guard status effect."
+Water Gun,Water,Special,1d6,2,Near Shot,10,,
+Fire Spin,Fire,Special,1d6,3,Near Shot,6,Inaccurate,Inflicts the Trapped status effect on the target.
+Whirlpool,Water,Special,1d6,3,Near Shot,6,Inaccurate,Inflicts the Trapped status effect on the target.
+Icy Wind,Ice,Special,1d6,1,Self Burst,6,Windy,The target(s) is/are moved down one place in the initiative order.
+Absorb,Grass,Special,1d6,1,Close,10,Draining,
+Mud Slap,Ground,Special,1d6,1,Near Shot,4,,Inflicts the Flinching status effect on the target.
+Sonic Boom,Normal,Special,1d6,1,Near Shot,8,Sound,
+Night Shade,Ghost,Special,-,2,Close,6,,Inflicts damage equal to the users Rank times 2.
+Mirror Coat,Psychic,Status,-,1,Self,8,,Grants the Mirror status effect to the user.
+Draco Meteor,Dragon,Special,4d6,5,Near Burst,4,,"After using this move, the user is inflicted with the Wide Open status effect."
+String Shot,Bug,Status,-,1,Near Shot,10,,The target is moved down one place in the initiative order.
+Hone Claws,Dark,Status,-,3,Self,10,,Grants the Hawkeye and Emboldened status effects to the user.
+Nasty Plot,Dark,Status,-,5,Self,8,,The user's INT modifier is increased by 1 for five minutes.
+Dragon Dance,Dragon,Status,-,4,Self,8,,"Grants the Emboldened status effect to the user, and moves them up one place in the initiative order."
+Thunder Wave,Electric,Status,-,1,Close,8,,Inflicts the Paralyzed status condition on the target.
+Charm,Fairy,Status,-,2,Near Shot,8,,Inflicts the Weakened status effect on the target.
+Sweet Kiss,Fairy,Status,-,1,Close,4,"Inaccurate, Contact",Inflicts the Confused status effect on the target.
+Bulk Up,Fighting,Status,-,2,Self,8,,Inflicts the Emboldened and Bolstered status effects on the user.
+Sunny Day,Fire,Status,-,3,Room,2,,"Changes the field condition in the current room to ""Sunny"" for 15 minutes."
+Will O Wisp,Fire,Status,-,1,Near Shot,6,Inaccurate,Inflicts the Burned status condition on the target.
+Roost,Flying,Status,-,2,Self,8,,"The user recovers 2d6 HP. If the are a Flying type, they also lose the weaknesses and resistances of said type until the start of their next turn."
+Confuse Ray,Ghost,Status,-,1,Near Shot,4,,Inflicts the target with the Confused status effect.
+Curse,Ghost,Status,-,3,Close,4,,Inflicts the target with the Cursed status effect.
+Destiny Bond,Ghost,Status,-,4,Near Shot,2,,"Within the next five minutes, if the user of this attack has their current HP reduced to 0 and is knocked out, the target of this attack is also knocked out."
+Leech Seed,Grass,Status,-,2,Near Burst,4,,"Sets a trap- parasitic roots linger in the area this move effects, inflicting 1d6 damage for each meter a Pokemon travels in it, and restoring an equal amount of HP to the user of this move."
+Sleep Powder,Grass,Status,-,2,Self Burst,6,"Inaccurate, Powder",Inflicts the target(s) with the Asleep status condition.
+Spore,Grass,Status,-,5,Room,6,Powder,Inflicts the target(s) with the Asleep status condition.
+Stun Spore,Grass,Status,-,1,Self Burst,10,"Inaccurate, Powder",Inflicts the target(s) with the Paralyzed status condition.
+Spikes,Ground,Status,-,1,Near Burst,8,,"Sets a trap- sharp spikes linger in the area this move effects, inflicting 1d6 damage for each meter a Pokemon travels in it, and inflicting them with the Flinching status effect."
+Snowscape,Ice,Status,-,3,Room,4,,"Changes the field condition in the current room to ""Snow"" for 15 minutes."
+Haze,Ice,Status,-,2,Self Burst,10,,Removes all helpful or harmful status effects from the target(s).
+Heal Pulse,Psychic,Status,-,4,Near Shot Except Self,6,Aura,Restores 3d6 HP to the target.
+Baton Pass,Normal,Status,-,3,Near Shot Except Self,10,,The user swaps places with the target.
+Belly Drum,Normal,Status,-,4,Self,4,Sound,The user takes 3d6 damage. Their STR modifier is increased by 3 for five minutes.
+Defense Curl,Normal,Status,-,1,Self,10,,The user gains the Bolstered status effect.
+Disable,Normal,Status,-,3,Close,8,Mental,"Disables the last move the target used, preventing them from using it for 15 minutes."
+Double Team,Normal,Status,-,3,Self,6,,The user gains the Evasive status effect.
+Encore,Normal,Status,-,2,Near Shot,2,Mental,"Cheers the target on, preventing them from using any moves except for the one they last used for 15 minutes."
+Endure,Normal,Status,-,2,Self,4,,The user gains the Enduring status effect.
+Flash,Normal,Status,-,2,Room Except Self,8,,Inflicts the target(s) with the Flinching status effect.
+Focus Energy,Normal,Status,-,3,Self,10,,The user gains the Focused status effect.
+Foresight,Normal,Status,-,1,Near Shot,10,,"The user focuses their sight, allowing them to see otherwise invisible Pokemon and hidden traps more clearly. Lasts for five minutes."
+Fresh Snack,Normal,Status,-,5,Self,4,,The user recovers 3d6 HP.
+Glare,Normal,Status,-,4,Near Shot,10,,Inflicts the target with the Paralyzed status condition.
+Growl,Normal,Status,-,1,Near Shot,10,,Inflicts the target with the Weakened status effect.
+Growth,Normal,Status,-,2,Self,8,,The user gains the Emboldened status effect.
+Heal Bell,Normal,Status,-,4,Room Choice,2,,Removes any harmful status conditions from the target(s).
+Healing Light,Normal,Status,-,3,Self,2,,The user recovers 2d6 HP. They recover an additional 1d6 HP if the open sky is visible.
+Leer,Normal,Status,-,1,Near Shot,10,,Inflicts the target with the Off Guard status effect.
+Mean Look,Normal,Status,-,3,Near Shot,2,,Inflicts the target with the Trapped status effect.
+Minimize,Normal,Status,-,4,Self,4,,"The user gains the Evasive status effect. They shrink down to a small size for 15 minutes, allowing them to fit into tight spaces."
+Pain Split,Normal,Status,-,3,Close,8,,"The user and the target share their pain; with their current HP changing to be equal to the average HP between the two, rounded down."
+Perish Song,Normal,Status,-,5,Room,1,Sound,"The user begins singing a deadly song that lasts for 15 minutes. If they complete the song, all target(s) are instantly knocked out. The user must expend an action during their turn to continue the song- if they take any other action or cannot take an action, then the song ends."
+Protect,Normal,Status,-,2,Self,4,,The user gains the Protect status effect.
+Recover,Normal,Status,-,4,Self,2,,The user gains the Regen status effect.
+Roar,Normal,Status,-,2,Close,8,Sound,Sends the target hurtling back 1d6 metres.
+Safeguard,Normal,Status,-,3,Self Burst,10,,Grants the target(s) the Safeguard status effect.
+Scary Face,Normal,Status,-,2,Close,4,,The target moves at the bottom of the initiative order during the next round.
+Screech,Normal,Status,-,2,Near Shot,10,Sound,The target is inflicted with the Off Guard status effect.
+Shell Smash,Normal,Status,-,4,Self,6,,"The user gains Emboldened status effect, and moves at the top of the initiative order during the next round. However, they also are inflicted with the Wide Open status effect."
+Sing,Normal,Status,-,3,Self Burst,6,"Sound, Inaccurate",The target(s) is/are inflicted with the Asleep status condition.
+Automatize,Steel,Status,-,3,Self,1,,The user's DEX modifier is increased by 1 for five minutes.
+Sleep Talk,Normal,Status,-,2,Self,4,,"If the user fails their check to wake up when inflicted with the Asleep status conditon, they may use this move as an action. The user may use one other move they know when they use this move. Does nothing if the user is awake."
+Smokescreen,Normal,Status,-,3,Room,8,,"Changes the field condition in the current room to ""Fog"" for 15 minutes."
+Substitute,Normal,Status,-,3,Self,4,,"The user takes 3d6 damage. They create a near-perfect plush duplicate of themself, which they can command to perform various simple actions, like move around, or touch and push things. The substitute copies the users ability score modifiers for the purpose of checks, but cannot use moves. The substitute lasts for one hour before dissolving into dust."
+Supersonic,Normal,Status,-,2,Near Shot,8,"Sound, Inaccurate",The target is inflicted with the Confused status effect.
+Swagger,Normal,Status,-,3,Near Shot,6,,"The target gains the Emboldened status effect, but is also inflicted with the Confused status effect."
+Swords Dance,Normal,Status,-,4,Self,8,,The user's STR modifier is increased by 1 for five minutes.
+Poisonpowder,Poison,Status,-,1,Self Burst,10,"Inaccurate, Powder",The target(s) is/are inflicted with the Poisoned status condition.
+Toxic,Poison,Status,-,3,Close,4,,The target is inflicted with the Poisoned status condition.
+Toxic Spikes,Poison,Status,-,3,Near Burst,8,,"Sets a trap- poisoned spikes linger in the area this move effects, inflicting the Poisoned status condition to Pokemon that travel in it."
+Agility,Normal,Status,-,3,Self,10,,The user moves at the top of the initiative order during the next round.
+Amnesia,Psychic,Status,-,3,Self,8,,"The user's WIS modifier is increased by 1 for five minutes. Afterwards, it is decreased by 1 for five minutes."
+Barrier,Normal,Status,-,3,Self,8,,The user gains the Barrier status effect.
+Calm Mind,Psychic,Status,-,4,Self,8,,The user's INT and WIS modifier are increased by 1 for as long as they remain stood still.
+Hypnosis,Psychic,Status,-,3,Close,8,Inaccurate,The target is inflicted with the Asleep status condition.
+Rest,Normal,Status,-,2,Self,2,,"The user recovers 4d6 HP, but is also inflicted with the Asleep status condition."
+Skill Swap,Psychic,Status,-,5,Near Shot,4,,The type talents of the user and the target are swapped for 15 minutes.
+Teleport,Psychic,Status,-,1,Self,8,,The user instantly moves to a location they can see within Near.
+Trick,Psychic,Status,-,2,Close,4,,The user swaps an item they are currently holding with an item the target is holding.
+Trick Room,Psychic,Status,-,5,Room,2,,"Changes the field condition in the current room to ""Weird"" for 15 minutes."
+Sandstorm,Rock,Status,-,3,Room,4,,"Changes the field condition in the current room to ""Sandstorm"" for 15 minutes."
+Rain Dance,Water,Status,-,3,Room,2,,"Changes the field condition in the current room to ""Raining"" for 15 minutes."
+Sticky Web,Bug,Status,-,4,Near Burst,8,,"Sets a trap- clinging webs linger in the area this move effects, inflicting the Trapped status condition to Pokemon that travel in it. The webs are cleared away if they are damaged by an attack."
