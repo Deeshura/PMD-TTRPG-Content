@@ -42,6 +42,8 @@ A bonus (or penalty) that is applied to some of a characters rolls based on the 
 |       16 - 17       |    +3    |
 |         18          |    +4    |
 
+: Table of Ability Scores and Modifiers {#tbl-scores}
+
 ## Type
 
 A "Type" is a property of both Pokemon and their moves that influence how effective the later are when used during battle, and grant other passive benefits known as Talents. Each Move has a single defined Type, whilst Pokemon can have one type, or two different types.
@@ -68,6 +70,8 @@ A table of the ranks and the benefits bestowed to a Pokemon if they meet them is
 |  8   |  Ultra  |     4     |         5         |  Stage 2  | 100,000 |
 |  9   |  Hyper  |     5     |         5         |  Stage 2  | 200,000 |
 |  10  | Master  |     5     |         6         |  Stage 2  | 300,000 |
+
+: Table of Ranks {#tbl-rank}
 
 ::: {.callout-note .column-margin}
 Whilst a list of titles corresponding to different ranks is provided, GMs are free to use their own Rank titles if they come up with titles that better fit the story of their campaign. And of course, per rule number one, if the table doesn't want to bother remembering specific titles, they're free to refer to ranks by their associated number instead.

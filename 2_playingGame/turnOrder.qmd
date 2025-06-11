@@ -1,0 +1,24 @@
+# Turn Order
+
+When characters take their turns, the order they do so is in descending order of their Dexterity ability score modifiers. If two characters share the same Dexterity ability score modifier, they take their particular turns in alphabetical order. This is called the "Initiative Order".
+
+::: {.callout-note .column-margin}
+Outside of high-stakes situations, turn order doesn't need to be handled in a strict fashion. Players can declare their actions as a group, or act simultaneously. Once everyone has had a chance to contribute, a round passes.
+:::
+
+## Player Turns
+
+When a player takes their turn, the following happens;
+
+1. The player counts down any personal timers for effects on their character that count down at the start of a turn.
+
+::: {.callout-note .column-margin}
+When resolving multiple effects or timers at the start or end of a turn, resolve them in alphabetical order of their names.
+:::
+
+
+2. The player takes an action and may move up to "near", split up how they like. The player can choose to expend their action to move up to near again.
+
+3. The player counts down any personal timers for effects on their character that count down at the end of a turn.
+
+4. The GM describes what happens as a result of the players turn.

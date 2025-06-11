@@ -1,0 +1,31 @@
+# Rolling the Dice
+
+Over the course of play, characters will encounter many situations where their success when performing a task isn't guaranteed. When faced with task where there could be negative consequences for failure, or when under time pressure, the outcome is left in the hands of fate- in other words, determined by the roll of the dice.
+
+## Checks
+
+Most dice rolls take the form of "checks", where the player or GM will roll a D20 (or several), add their relevant Ability Score Modifier, and then check to see if it meets a certain threshold.
+
+- If the result is a number less than 8, the Check results in a consequential failure.
+- If the result is a number between 8 and 14, the Check result is a partial success. The character achieves what they want, but with a consequence or drawback.
+- If the result is a number greater than 14, the Check result is a full success, with no drawbacks.
+
+The ability score modifier added to the result of a roll is dependant on the type of thing the character is looking to accomplish. For example, pushing a heavy boulder would be a Strength Check, whereas trying to determine if someone is lying would be a Wisdom Check.
+
+### Advantage and Disadvantage
+
+Sometimes, the situation that characters find themselves in give them a better position to succeed... or fail. When the odds are tipped in a characters favour, they will roll with "Advantage", rolling the d20 twice and taking the higher result, and when the odds are tipped against them, they will roll with "Disadvantage", rolling the d20 twice and taking the lower result.
+
+A characters position (Advantageous, Neutral, or Disadvantageous) is dependant on the sum of beneficial and harmful effects present at the time the check is rolled. Sources of Advantage and Disadvantage do not "cancel eachother out"; a GM should consider their cumulative impact and use that to determine the position the character is in when they make a roll.
+
+### Exertion
+
+Before rolling a check, a PC may choose to "Exert" themselves, pushing themselves as hard as they can. Doing so improves the position of their roll by one stage- turning a disadvantageous roll into a neutral one, and a neutral roll into an advantageous one.
+
+However, in exchange, that PCs current belly is reduced by 1, regardless of the result of the roll. A character cannot exert themselves if their current belly is 0.
+
+## Other Rolls
+
+Many effects or situations will call for a player or the GM to roll a Chance Die- this is a single D6. Depending on the effect in question, rolling a high number on the D6 will generally cause something to happen.
+
+Other effects may also ask a player or the GM to flip a coin. Again, depending on the effect in question, the outcome of the coin flip determines what may happen.

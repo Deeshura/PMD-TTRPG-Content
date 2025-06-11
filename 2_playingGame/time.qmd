@@ -1,0 +1,35 @@
+# Time
+
+It is important that the players and GM track the passage of time in the game world (known as "game time") as they play; particularly when crawling through Mystery Dungeons.
+
+The units of time that should be kept track of are context dependant- when the players are in the wilderness moving over a long distance, time is often tracked in hours, or even days. Meanwhile, when exploring a Mystery Dungeon, where every step can matter, time is itemized into "Turns" and "Rounds".
+
+## Turns and Rounds
+
+A "turn" is a moment where a player or a non-player character performs an action during a high-stakes situation. Characters take their turns one by one, and once every present character has taken their turn, a "Round" is completed, beginning the turn order once again.
+
+The exact length of a turn in game time can be flexible. Some turns will give characters enough time to make an exchange of words back and forth, whilst others will be only a few seconds long.
+
+When aggregating turns into a round, assume each round lasts for 6 minutes of in-game time.
+
+::: {.callout-tip}
+### Optional Rule: Real Time
+
+To put a bit of pressure on the players to keep the ball rolling, tables can agree to track game time by using real time as a measuring stick, with one minute of real-world time being equivalent to one minute of game time.
+:::
+
+## The Passage of Time
+
+Different actions in-game can take up a different amount of game time. For example, the players may choose to spend 10 minutes searching a room, or an hour at a restaurant. When this happens, the GM and players should move any timers on their active effects by that amount, fast-forwarding through time (assuming their actions are not interrupted by something, of course!)
+
+For convenience of tracking, when just minutes pass, any effects with a duration of "rounds" should expire. 
+
+## The Consequences of Time
+
+As time passes, there are some things that the players and the GM must keep track of.
+
+- The current belly of the player characters is reduced by 1 for every hour they spend awake, or every 2 hours they spend asleep.
+
+- Light sources, such as torches, have a listed duration they last for once lit.
+
+- Effects will generally have a noted duration that they will last for, expiring once that duration is met.
